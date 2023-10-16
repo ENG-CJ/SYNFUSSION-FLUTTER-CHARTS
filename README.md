@@ -1,6 +1,6 @@
 # charts
 
-A new Flutter project.
+![](Screenshot_1697478800.png)
 
 ## Getting Started
 
